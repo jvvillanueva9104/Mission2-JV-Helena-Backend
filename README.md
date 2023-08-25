@@ -1,3 +1,7 @@
+<img width="804" alt="image" src="https://github.com/jvvillanueva9104/Mission2-JV-Helena-Backend/assets/132235924/b9ab73c5-cdc2-486a-bfc1-fbb6bed8ef2d">
+
+
+
 ### Built With
 * NodeJS
 * Typescript
